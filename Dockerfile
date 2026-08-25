@@ -2,7 +2,7 @@ FROM node:24
 
 WORKDIR /var/www/html
 
-COPY . .
+COPY . /var/www/html/
 
 RUN npm init -y
 
