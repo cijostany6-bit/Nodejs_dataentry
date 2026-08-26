@@ -7,6 +7,12 @@
 ✅ Update a name  
 ✅ Delete a name  
 
+Clone the Repo in your Machine
+```
+git clone <url>
+```
+
+
 To install Node.js on your system, use the following commands:
 
 ```
@@ -19,11 +25,6 @@ Check version:
 ```
 node -v
 npm -v
-```
-
-Clone the Repo in your Machine
-```
-git clone <url>
 ```
 
 ## Set Environment
@@ -47,7 +48,7 @@ DB_NAME=
 
 ```node server.js```
 
-### Manually Check Sql Connection
+### Manually Check Sql Connection [ Optional ]
 
 `mysql -h < host-ip > -u root -p`
 
