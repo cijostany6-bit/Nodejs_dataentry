@@ -35,7 +35,7 @@ npm install express mysql dotenv
 ```
 
 
-### Change database host in database.env file     
+### Create a database.env file in project folder and change database cedentials.   
 ```
 DB_HOST=
 DB_USER=
